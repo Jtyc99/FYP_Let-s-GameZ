@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "389387051066",
+    "project_id": "let-s-gamez-343f0",
+    "storage_bucket": "let-s-gamez-343f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389387051066:android:cf4473ad6ad350c93ad503",
+        "android_client_info": {
+          "package_name": "com.example.lets_gamez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389387051066-gfr9f8lvcm8m9a1tt2ia79tl1p3vjlni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVpdDmEdqCMLuyqlDsiHCA0pkXMkyU0js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389387051066-gfr9f8lvcm8m9a1tt2ia79tl1p3vjlni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
