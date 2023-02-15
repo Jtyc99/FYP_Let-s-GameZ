@@ -1,6 +1,6 @@
-# lets_gamez
+# Let's_Gamez
 
-A new Flutter project.
+FYP project on end-to-end encrypted file sharing mobile application for gamers.
 
 ## Getting Started
 
