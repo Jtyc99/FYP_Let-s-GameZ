@@ -1,6 +1,6 @@
 # Let's_Gamez
 
-FYP project on end-to-end encrypted file sharing mobile application for gamers.
+FYP project on end-to-end encrypted file sharing mobile application for gamers by student named Tong Yong Chuan 202284 from Universiti Putra Malaysia.
 
 ## Getting Started
 
